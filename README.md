@@ -156,7 +156,7 @@ While traditional smart contracts handle lending and collateral logic, the cloud
 
 | Layer | Role | Technologies |
 |-------|------|---------------|
-| **Smart Contracts** | Defines vault, collateral, and oracle interfaces | Solidity (Mocked) |
+| **Smart Contracts** | Defines vault, collateral, and oracle interfaces | Solidity |
 | **Off-Chain Services** | Orchestrates logic and risk response | Python, AWS-style microservices |
 | **AI Risk Agent** | Detects anomalies and triggers liquidations | Z-score, Statistical analysis |
 | **Infra Simulation** | Models event-driven orchestration | CloudWatch, Fargate, EKS (Mock) |
