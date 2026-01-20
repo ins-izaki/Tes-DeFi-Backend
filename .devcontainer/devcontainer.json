@@ -1,0 +1,6 @@
+{
+  "ixtsuki": "ghcr.io/ait-assistive-autonomous-systems/devcontainer_features/add-groups:0",
+  
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {"ghcr.io/ait-assistive-autonomous-systems/devcontainer_features/add-groups:0": {}}
+}
